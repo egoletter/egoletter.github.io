@@ -1,0 +1,6 @@
+*.ghp
+*.env
+*.toml
+test*
+functions/
+sample/
